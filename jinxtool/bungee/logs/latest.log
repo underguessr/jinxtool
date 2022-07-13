@@ -1,0 +1,14 @@
+[13:09:22] [main/INFO]: Using standard Java JCE cipher.
+[13:09:22] [main/INFO]: Using standard Java compressor.
+[13:09:22] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.18-R0.1-SNAPSHOT:ba3bbcc:483
+[13:09:23] [main/INFO]: Loaded plugin RBungeeExploit version 1.0 by wRRulos
+[13:09:24] [main/WARN]: Forced host server pvp is not defined
+[13:09:24] [main/INFO]: [RBungeeExploit] RBungeeExploit loaded successfully!. By @wrrulos
+[13:09:24] [main/INFO]: 
+[13:09:24] [main/INFO]: ------------------------------------------------------------------------------
+[13:09:24] [main/INFO]: - connect [ip:port]  
+[13:09:24] [main/INFO]: - set-uuid [UUID]  
+[13:09:24] [main/INFO]: ------------------------------------------------------------------------------
+[13:09:24] [main/INFO]: 
+[13:09:24] [main/INFO]: Enabled plugin RBungeeExploit version 1.0 by wRRulos
+[13:09:25] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:33330

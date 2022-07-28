@@ -1,0 +1,3 @@
+java, nmap + run the tool as administrator
+
+also, the tool is not obfuscated so if you're gonna use the code - give me credit :]

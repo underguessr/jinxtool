@@ -1,5 +1,22 @@
 # jinxtool
-This is a tool made to be helpful for people that (still) grief minecraft servers. It has some simple functions like port scanning etc. The tool is not obfuscated so if you're gonna use the code please give me some credit, also the tool is made in batch.
-If you get any errors while using this tool, make sure to message me on discord ( jinx#6828 ).
-If you get in any sort of trouble or cause any damage to somenthing or someone i have nothing to do with that, this tool is for educational and for educational
-purposes only, everything you do you take the punishment for. Enjoy using the tool. :]
+| **By jinx#6828** | For minecraft!
+
+Current functions:
+-Domain Lookup
+-Grief Commands
+-Port Scanner
+-Player Lookup
+-IPGeoLookup
+-Bypasses
+-Bungee Create
+-DB Searcher
+-Server Lookup
+-Clients List
+-Server Finder/List
+-Subdomain Scanner
+
+For support contact me on jinx#6828 or join my discord server at: https://discord.gg/sbwmYBzSTn .
+
+THIS TOOL IS FOR EDUCATIONAL AND EDUCATIONAL PURPOSES ONLY. EVERYTHING YOU DO YOU TAKE THE PUNISHMENT FOR. enjoy :]
+
+More things coming soon ;D

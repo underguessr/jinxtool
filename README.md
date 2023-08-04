@@ -1,5 +1,5 @@
 # jinxtool
-| **By jinx#6828** | For minecraft!
+| **By jinx696** | For minecraft!
 
 Current functions:
 -Domain Lookup
@@ -17,6 +17,6 @@ Current functions:
 
 For support contact me on jinx#6828 or join my discord server at: https://discord.gg/sbwmYBzSTn .
 
-THIS TOOL IS FOR EDUCATIONAL AND EDUCATIONAL PURPOSES ONLY. EVERYTHING YOU DO YOU TAKE THE PUNISHMENT FOR. enjoy :]
+**THIS TOOL IS FOR EDUCATIONAL AND EDUCATIONAL PURPOSES ONLY. EVERYTHING YOU DO YOU TAKE THE PUNISHMENT FOR.**
 
-More things coming soon ;D
+|**DISCONTINUED**|

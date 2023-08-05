@@ -3,17 +3,17 @@
 
 Current functions:
 >Domain Lookup;
->Grief Commands
->Port Scanner
->Player Lookup
->IPGeoLookup
->Bypasses
->Bungee Create
->DB Searcher
->Server Lookup
->Clients List
->Server Finder/List
->Subdomain Scanner
+>Grief Commands;
+>Port Scanner;
+>Player Lookup;
+>IPGeoLookup;
+>Bypasses;
+>Bungee Create;
+>DB Searcher;
+>Server Lookup;
+>Clients List;
+>Server Finder/List;
+>Subdomain Scanner;
 
 *For support contact me on jinx696 on discord.*
 

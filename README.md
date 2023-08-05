@@ -2,8 +2,8 @@
 | **By jinx696** | For minecraft!
 
 Current functions:
--Domain Lookup
--Grief Commands
+~Domain Lookup;
+~Grief Commands
 -Port Scanner
 -Player Lookup
 -IPGeoLookup

@@ -1,5 +1,5 @@
 # jinxtool
-| **By jinx696** | For minecraft!
+| **By jinx** | For minecraft!
 
 Current functions:
 >Domain Lookup;
@@ -15,7 +15,7 @@ Current functions:
 >Server Finder/List;
 >Subdomain Scanner;
 
-*For support contact me on jinx696 on discord.*
+*NO MORE SUPPORT :(*
 
 **THIS TOOL IS FOR EDUCATIONAL AND EDUCATIONAL PURPOSES ONLY. EVERYTHING YOU DO YOU TAKE THE PUNISHMENT FOR.**
 

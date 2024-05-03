@@ -1,6 +1,6 @@
 @echo off
-:: Discord: jinx#6828 | Discord Server: https://discord.gg/sbwmYBzSTn | If you're gonna use any part of the code give me credit !
-title grieftool by jinx#6828 - https://discord.gg/sbwmYBzSTn
+:: Discord: jinx | Discord Server: https://discord.gg////// | If you're gonna use any part of the code give me credit !
+title grieftool by jinx - https://discord.gg//////
 
 IF NOT EXIST bungee echo Missing Bungee folder. > missing.txt
 cd dbsearcher/ && IF NOT EXIST database1.txt echo Missing DB1 file. > missing1.txt
@@ -15,7 +15,7 @@ for %%R in (missing2.txt) do if not %%~zR lss 1 goto notempty1 ELSE GOTO mainmen
 
 :mainmenu
 color 3
-title grieftool by jinx#6828 - https://discord.gg/sbwmYBzSTn
+title grieftool by jinx - https://discord.gg////////
 cls
 echo.
 echo.
@@ -27,7 +27,7 @@ echo       **   **   **    **  **       **                 **         **    **  
 echo   **  **   **   **     ** **     **  **               **          **  **      **  **    **
 echo   ******   **   **      ****    **    **              **            **          **      *******
 echo.
-echo  Jinx Tool made by jinx#6828 on discord - Discord Server: https://discord.gg/sbwmYBzSTn - Enjoy!
+echo  Jinx Tool made by jinx on discord - Discord Server: https://discord.gg////////////// - Enjoy!
 echo **************************************************************************************************
 echo.
 echo.
